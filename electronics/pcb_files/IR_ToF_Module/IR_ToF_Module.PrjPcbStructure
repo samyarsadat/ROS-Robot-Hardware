@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=IR_ToF_Module.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=IR_ToF_Module.SchDoc|Designator=VL53L8CX|SchDesignator=VL53L8CX|FileName=VL53L8CX_Option.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=VL53L8CX_Option.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=IR_ToF_Module.SchDoc|Designator=VL53L_SZ|SchDesignator=VL53L_SZ|FileName=VL53L_SZ_Option.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=VL53L_SZ_Option.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

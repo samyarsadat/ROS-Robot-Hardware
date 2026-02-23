@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=IMU_ATM_Module.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=IMU_ATM_Module.SchDoc|Designator=ATM_SENS|SchDesignator=ATM_SENS|FileName=Atmospheric.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Atmospheric.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=IMU_ATM_Module.SchDoc|Designator=IMU_SENS|SchDesignator=IMU_SENS|FileName=IMU_Mag.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=IMU_Mag.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

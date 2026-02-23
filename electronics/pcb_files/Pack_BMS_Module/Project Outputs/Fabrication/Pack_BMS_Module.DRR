@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Pack_BMS_Module.PcbDoc   2/24/2026  12:46:42 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Pack_BMS_Module.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             7         PTH        2.77inch (70.34mm)
+T2      55mil (1.4mm)                                             Round             10        PTH        0.98inch (25.00mm)
+T3      71mil (1.8mm)                                             Round             2         PTH        0.53inch (13.50mm)
+T4      87mil (2.2mm)                                             Round             2         PTH        1.30inch (32.90mm)
+T5      102mil (2.6mm)                                            Round             4         PTH        1.42inch (36.03mm)
+T6      106mil (2.7mm)                                            Round             2         PTH        0.28inch (7.20mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              27
+
+Total Processing Time (hh:mm:ss) : 00:00:00

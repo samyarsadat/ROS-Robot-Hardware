@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Sensors_IO_Board.PcbDoc   2/24/2026  12:51:10 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Sensors_IO_Board.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      35mil (0.9mm)                                             Round             41        PTH        11.96inch (303.79mm)
+T2      39mil (1mm)                                               Round             22        PTH        22.15inch (562.62mm)
+T3      40mil (1.02mm)                                            Round             16        PTH        11.55inch (293.42mm)
+T4      102mil (2.6mm)                                            Round             4         PTH        0.72inch (18.29mm)
+T5      35mil (0.9mm)                                             Round             6         NPTH       1.66inch (42.22mm)
+T6      40mil (1.02mm)                                            Round             2         NPTH       0.35inch (9.00mm)
+T7      49mil (1.25mm)                                            Round             3         NPTH       1.28inch (32.56mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              94
+
+Total Processing Time (hh:mm:ss) : 00:00:00

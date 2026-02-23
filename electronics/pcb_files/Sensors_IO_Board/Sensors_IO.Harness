@@ -1,0 +1,6 @@
+IMU_IO=INT,RESET,BOOT
+Microswitches=FRONT_RIGHT,FRONT_LEFT,BACK_RIGHT,BACK_LEFT
+ToF_Hub_IO=INT,RESET
+ToF_IO=INT,XSHUT
+Ultrasonic=TRIG,ECHO
+Ultrasonics={FRONT:Ultrasonic},{BACK:Ultrasonic},{RIGHT:Ultrasonic},{LEFT:Ultrasonic}

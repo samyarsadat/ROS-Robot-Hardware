@@ -1,0 +1,3 @@
+Drive_IO=PWM,DIR,PROPI
+Encoder=CHA,CHB
+SPI_Uni=SCS,SCLK,SDIO

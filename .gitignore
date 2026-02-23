@@ -1,0 +1,17 @@
+cad_files/swxJRNL.swj
+cad_files/G-Code
+**/~$*.sldprt
+**/~$*.SLDPRT
+**/~$*.sldasm
+**/~$*.SLDASM
+**/~$*.sldblk
+**/~$*.SLDBLK
+electronics/**/__Previews
+electronics/**/History
+electronics/**/Project *
+!electronics/**/Project Outputs
+!electronics/**/Project Outputs/Project Exports
+electronics/**/Project Outputs/Design Rule Check - *.*
+electronics/**/Status Report.txt
+**/desktop.ini
+**/.vscode
