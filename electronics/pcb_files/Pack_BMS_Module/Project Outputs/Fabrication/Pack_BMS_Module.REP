@@ -2,10 +2,14 @@
 FileName = Pack_BMS_Module.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Overlay
-      File : Pack_BMS_Module.GBO
+Generating : Bottom Paste
+      File : Pack_BMS_Module.GBP
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
@@ -23,6 +27,7 @@ Generating : Top Paste
 
 
 Used DCodes :
+    D17
     D18
     D19
     D20
@@ -49,10 +54,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : Pack_BMS_Module.GBP
+Generating : Bottom Solder
+      File : Pack_BMS_Module.GBS
 
-    Adding Layer      : Bottom Paste
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -60,24 +65,16 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Pack_BMS_Module.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D90
 *************************************************************
 
 *************************************************************
@@ -128,6 +125,34 @@ Used DCodes :
     D74
     D75
     D76
+    D77
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Pack_BMS_Module.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Pack_BMS_Module.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
 *************************************************************
 
 *************************************************************
@@ -140,14 +165,14 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D76
-    D82
+    D77
     D83
     D84
     D85
     D86
     D87
     D88
+    D89
 *************************************************************
 
 *************************************************************
@@ -160,6 +185,7 @@ Generating : Top Layer
 
 
 Used DCodes :
+    D17
     D18
     D19
     D20
@@ -183,10 +209,9 @@ Used DCodes :
     D38
     D39
     D40
-    D44
-    D45
-    D46
-    D76
+    D48
+    D49
+    D50
     D77
     D78
     D79
@@ -199,29 +224,6 @@ Used DCodes :
     D86
     D87
     D88
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Pack_BMS_Module.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
     D89
 *************************************************************
 
@@ -231,6 +233,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D90
+    D91
 *************************************************************
 

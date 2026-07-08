@@ -185,6 +185,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JLKFFSQV
 
+[Document9]
+DocumentPath=Battery_Management.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document10]
+DocumentPath=Battery_Connector.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Parameter1]
 Name=MainProjectName
 Value=The ROS Robot Project
@@ -561,6 +595,11 @@ OutputName9=Report Single Pin Nets
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
+OutputType10=BOM_ReportManufacturing
+OutputName10=Manufacturing Data
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
 
 [OutputGroup7]
 Name=Other Outputs
@@ -854,6 +893,19 @@ Type155=1
 Type156=1
 Type157=1
 Type158=1
+Type159=1
+Type160=1
+Type161=1
+Type162=1
+Type163=1
+Type164=1
+Type165=1
+Type166=1
+Type167=1
+Type168=1
+Type169=1
+Type170=1
+Type171=1
 
 [Difference Levels]
 Type1=1
@@ -942,6 +994,15 @@ Type83=1
 Type84=1
 Type85=1
 Type86=1
+Type87=1
+Type88=1
+Type89=1
+Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1105,6 +1166,10 @@ Type158=0
 Type159=0
 Type160=0
 Type161=0
+Type162=1
+Type163=1
+Type164=1
+Type165=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNWNWNNNWW
@@ -1170,6 +1235,47 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=+3V3_LED|NetColor=clFuchsia
+Net2=NetName=BC1|NetColor=$000099FF
+Net3=NetName=BC2|NetColor=$000099FF
+Net4=NetName=BC3|NetColor=$000099FF
+Net5=NetName=BNEG|NetColor=$000099FF
+Net6=NetName=FUSE|NetColor=clLime
+Net7=NetName=NetC10_2|NetColor=clRed
+Net8=NetName=NetC12_1|NetColor=clRed
+Net9=NetName=NetC22_2|NetColor=clRed
+Net10=NetName=NetC7_1|NetColor=clRed
+Net11=NetName=NetC7_2|NetColor=clRed
+Net12=NetName=NetC9_2|NetColor=clLime
+Net13=NetName=NetD6_2|NetColor=$000099FF
+Net14=NetName=NetF1_2|NetColor=clBlue
+Net15=NetName=NetIC1_2|NetColor=clRed
+Net16=NetName=NetIC1_3|NetColor=clRed
+Net17=NetName=NetIC4_2|NetColor=$000099FF
+Net18=NetName=NetIC4_3|NetColor=$000099FF
+Net19=NetName=NetIC5_2|NetColor=$000099FF
+Net20=NetName=NetIC5_3|NetColor=$000099FF
+Net21=NetName=NetIC6_2|NetColor=$000099FF
+Net22=NetName=NetIC6_3|NetColor=$000099FF
+Net23=NetName=NetJ2_1|NetColor=$000099FF
+Net24=NetName=NetJ2_2|NetColor=$000099FF
+Net25=NetName=NetJ2_3|NetColor=$000099FF
+Net26=NetName=NetJ2_4|NetColor=$000099FF
+Net27=NetName=NetJ4_1|NetColor=clBlue
+Net28=NetName=NetJ4_2|NetColor=clRed
+Net29=NetName=NetJP1_2|NetColor=clLime
+Net30=NetName=NetR16_1|NetColor=clLime
+Net31=NetName=NetR17_2|NetColor=clLime
+Net32=NetName=NetR29_2|NetColor=$000099FF
+Net33=NetName=NetR32_1|NetColor=$000099FF
+Net34=NetName=NetR33_1|NetColor=$000099FF
+Net35=NetName=NetU2_8|NetColor=clLime
+Net36=NetName=PACK-|NetColor=clBlue
+Net37=NetName=PACK+|NetColor=clRed
+Net38=NetName=PPW_N|NetColor=clBlue
+Net39=NetName=PPW_P|NetColor=clRed
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
