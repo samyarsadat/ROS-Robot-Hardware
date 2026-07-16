@@ -458,6 +458,23 @@ GenerateClassCluster=0
 DocumentUniqueId=YGCWZFJN
 
 [Document25]
+DocumentPath=Temp_Sensor.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=20
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AITWXCSB
+
+[Document26]
 DocumentPath=User_Control_IO.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1429,8 +1446,8 @@ Type165=2
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
 L2=NNNNNNNWNNNWNNNWN
-L3=NNNENEENENEWNEEWN
-L4=NNENNNWEENNWNENWN
+L3=NNNNNEENENEWNEEWN
+L4=NNNNNNWEENNWNENWN
 L5=NNNNNNNNNNNNNNNNN
 L6=NNENNNNEENNWNENWN
 L7=NNEWNNWEENNWNENWN
